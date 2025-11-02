@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" datatype="php" original="src/Resources/contao/languages/en/modules.php">
+    <body>
+
+      <trans-unit id="MOD.youtube_preview_image">
+        <source>Youtube</source>
+      </trans-unit>
+
+      <trans-unit id="MOD.youtube_preview.0">
+        <source>YouTube thumbnail</source>
+      </trans-unit>
+      <trans-unit id="MOD.youtube_preview.1">
+        <source>Generate &amp; save a YouTube thumbnail by video ID.</source>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

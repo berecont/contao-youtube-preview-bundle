@@ -1,0 +1,31 @@
+{
+    "name": "berecont/contao-youtube-preview-bundle",
+    "description": "Contao Backendmodul: YouTube-Thumbnail Vorschau & Download",
+    "type": "contao-bundle",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Bernhard Renner",
+            "email": "info@berecont.at",
+            "homepage": "https://berecont.at",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "info@berecont.at"
+    },
+    "require": {
+        "php": ">=8.2",
+        "contao/core-bundle": "^5.3",
+        "symfony/framework-bundle": "^6.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+        "Berecont\\ContaoYoutubePreview\\": "src/"
+        }
+    },
+    "extra": {
+        "contao-manager-plugin": "Berecont\\ContaoYoutubePreview\\ContaoManager\\Plugin"
+    }
+}

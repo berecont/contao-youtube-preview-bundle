@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" datatype="php" original="tl_youtube_preview" target-language="de">
+    <body>
+
+      <trans-unit id="tl_youtube_preview.title_legend">
+        <source>Basic settings</source>
+        <target>Basis Einstellungen</target>
+      </trans-unit>
+
+      <!-- Formulartexte -->
+      <trans-unit id="tl_youtube_preview.youtube_id.0">
+        <source>YouTube video ID</source>
+        <target>YouTube Video-ID</target>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.youtube_id.1">
+        <source>Enter only the 11-char video ID (e.g. 4_S2u33mD60), not the full URL.</source>
+        <target>Gib nur die Video-ID ein (z. B. 4_S2u33mD60), nicht die komplette URL.</target>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.targetFolder.0">
+        <source>Target folder</source>
+        <target>Zielordner</target>
+      </trans-unit>
+      <trans-unit id="tl_youtube_preview.targetFolder.1">
+        <source>Select the folder where the generated preview image will be stored.</source>
+        <target>Wähle den Ordner, in dem das erzeugte Vorschaubild gespeichert wird.</target>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.generatedImage.0">
+        <source>Generated image</source>
+        <target>Generiertes Bild</target>
+      </trans-unit>
+      <trans-unit id="tl_youtube_preview.generatedImage.1">
+        <source>The generated preview image (set on save).</source>
+        <target>Das erzeugte Vorschaubild (wird beim Speichern gesetzt).</target>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.title_legend">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="tl_youtube_preview.preview_legend">
+        <source>Preview</source>
+        <target>Vorschaubild</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

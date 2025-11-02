@@ -1,0 +1,16 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+  
+  Berecont\ContaoYoutubePreview\:
+    resource: ../src/*
+    exclude: ../src/{DependencyInjection,Model,Tests,Kernel.php}
+
+  Berecont\ContaoYoutubePreview\EventListener\Dca\TlYoutubePreviewListener:
+    arguments:
+      - '@http_client'
+      - '@filesystem'
+      - '@logger'
+    public: true

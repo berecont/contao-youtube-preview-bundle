@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" datatype="php" original="tl_youtube_preview">
+    <body>
+
+      <trans-unit id="tl_youtube_preview.title_legend.label">
+        <source>Basic settings</source>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.youtube_id.0">
+        <source>YouTube video ID</source>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.youtube_id.1">
+        <source>Enter only the 11-char video ID (e.g. 4_S2u33mD60), not the full URL.</source>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.targetFolder.0">
+        <source>Target folder</source>
+      </trans-unit>
+      <trans-unit id="tl_youtube_preview.targetFolder.1">
+        <source>Select the folder where the generated preview image will be stored.</source>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.generatedImage.0">
+        <source>Generated image</source>
+      </trans-unit>
+      <trans-unit id="tl_youtube_preview.generatedImage.1">
+        <source>The generated preview image (set on save).</source>
+      </trans-unit>
+
+      <trans-unit id="tl_youtube_preview.title_legend">
+        <source>Title</source>
+      </trans-unit>
+      <trans-unit id="tl_youtube_preview.preview_legend">
+        <source>Preview</source>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>
