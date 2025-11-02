@@ -28,15 +28,6 @@
         <target>Wähle den Ordner, in dem das erzeugte Vorschaubild gespeichert wird.</target>
       </trans-unit>
 
-      <trans-unit id="tl_youtube_preview.generatedImage.0">
-        <source>Generated image</source>
-        <target>Generiertes Bild</target>
-      </trans-unit>
-      <trans-unit id="tl_youtube_preview.generatedImage.1">
-        <source>The generated preview image (set on save).</source>
-        <target>Das erzeugte Vorschaubild (wird beim Speichern gesetzt).</target>
-      </trans-unit>
-
       <trans-unit id="tl_youtube_preview.title_legend">
         <source>Title</source>
         <target>Titel</target>

@@ -22,13 +22,6 @@
         <source>Select the folder where the generated preview image will be stored.</source>
       </trans-unit>
 
-      <trans-unit id="tl_youtube_preview.generatedImage.0">
-        <source>Generated image</source>
-      </trans-unit>
-      <trans-unit id="tl_youtube_preview.generatedImage.1">
-        <source>The generated preview image (set on save).</source>
-      </trans-unit>
-
       <trans-unit id="tl_youtube_preview.title_legend">
         <source>Title</source>
       </trans-unit>
